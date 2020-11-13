@@ -850,10 +850,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@beefswap/core@^1.0.1":
-  version "1.0.1"
-  resolved "http://149.129.81.147:4873/@beefswap%2fcore/-/core-1.0.1.tgz#d790f4980fe4bbacf867ee45be5257fac89f5713"
-  integrity sha512-sFVRPQ80ii9PHq2rCxOjL2pGpmJLDaT5iLqSNX3Q8e1aY6HcdOK3c2x7Yqywtj0THmdU83uwxgRFiHxRVqQ3rQ==
+"@beefswap/core@^1.0.0":
+  version "1.0.0"
+  resolved "http://149.129.81.147:4873/@beefswap%2fcore/-/core-1.0.0.tgz#872e41fb96449a6800d5798f598252043b00d6fc"
+  integrity sha512-Yw7fwi2jl+7HHO7rI/B4M1RRjo9tJIacQQz9swT77o3IAyVSEAi9S87OP++iLJimJEA+x9kxf1Bz0AX+abIx4g==
   dependencies:
     "@openzeppelin/contracts" "^3.2.0"
 
